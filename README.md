@@ -30,18 +30,10 @@ A sample training command is included in `train.sh`.
 A sample evaluation command is included in `eval.sh`.
 
 
+## Acknowledgements
 
-## Citation
+We would like to express our gratitude to the authors of the following codebase.
 
-If you use this code for your research, please cite:
+## [[simplebev](https://github.com/SunJ1025/OE-BevSeg/)]
 
 
-Bibtex:
-```
-@inproceedings{harley2022simple,
-  title={Simple-{BEV}: What Really Matters for Multi-Sensor BEV Perception?},
-  author={Adam W. Harley and Zhaoyuan Fang and Jie Li and Rares Ambrus and Katerina Fragkiadaki},
-  booktitle={arXiv:2206.07959},
-  year={2022}
-}
-```
