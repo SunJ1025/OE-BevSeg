@@ -34,6 +34,6 @@ A sample evaluation command is included in `eval.sh`.
 
 We would like to express our gratitude to the authors of the following codebase.
 
-### [[simplebev](https://github.com/SunJ1025/OE-BevSeg/)]
+### [simplebev](https://github.com/SunJ1025/OE-BevSeg/)
 
 
