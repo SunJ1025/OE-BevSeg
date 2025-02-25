@@ -1,0 +1,4 @@
+# ninja log v5
+0	3003	1717483608885357329	/home/oem/桌面/code_bev_seg/simple_bev-main/nets/ops/build/temp.linux-x86_64-cpython-311/home/oem/桌面/code_bev_seg/simple_bev-main/nets/ops/src/cpu/ms_deform_attn_cpu.o	a7d10766168028b3
+0	8684	1717483614565257077	/home/oem/桌面/code_bev_seg/simple_bev-main/nets/ops/build/temp.linux-x86_64-cpython-311/home/oem/桌面/code_bev_seg/simple_bev-main/nets/ops/src/vision.o	e3bbc7c909656bf5
+0	10043	1717483615917233177	/home/oem/桌面/code_bev_seg/simple_bev-main/nets/ops/build/temp.linux-x86_64-cpython-311/home/oem/桌面/code_bev_seg/simple_bev-main/nets/ops/src/cuda/ms_deform_attn_cuda.o	4f43c57ae129220f
