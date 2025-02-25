@@ -5,9 +5,9 @@ This is the official code release for our paper
 
 [[Paper](https://arxiv.org/abs/2407.13137)] [[Project Page](https://github.com/SunJ1025/OE-BevSeg/)]
 
-<img src='https://simple-bev.github.io/videos/output_compressed.gif'>
+<img src='https://github.com/SunJ1025/OE-BevSeg/blob/main/videos/output_07.gif'>
 
-
+<img src='https://github.com/SunJ1025/OE-BevSeg/blob/main/videos/output_39.gif'>
 
 ## Requirements
 
