@@ -1,4 +1,3 @@
-# Simple-BEV: What Really Matters for Multi-Sensor BEV Perception?
 
 This is the official code release for our paper 
 **OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird’s-eye-view Vehicle Semantic Segmentation. **
